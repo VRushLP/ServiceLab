@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServiceLab</string>
+    <string name="start">Start the Service</string>
+    <string name="stop">Stop the Service</string>
+    <string name="SHARED_PREFS">edu.uw.tacoma.teamten.serviceslab.SHAREDPREFS</string>
+    <string name="ON">on</string>
+
+</resources>
